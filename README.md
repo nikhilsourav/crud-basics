@@ -19,11 +19,13 @@
 - GET method
 
   - Click the "Get" button to retrieve data from db. Currently the data is being dumped into the console.
+
     <img src="assets/get.png" width="650" height="auto">
 
 - POST method
 
   - Fill the form and click "Post" to create a new document in the db. After successful creation, the console gets updated with the documents.
+
     <img src="assets/post.png" width="650" height="auto">
 
 - Verify
